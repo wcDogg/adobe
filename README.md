@@ -1,2 +1,2 @@
-# adobe
-Adobe Illustrator and Adobe Photoshop scripts.
+# Adobe Illustrator & Adobe Photoshop Scripts & Notes
+
